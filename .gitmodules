@@ -1,0 +1,3 @@
+[submodule "kol/tvm_mlir_learn"]
+	path = kol/tvm_mlir_learn
+	url = git@github.com:BBuf/tvm_mlir_learn.git
